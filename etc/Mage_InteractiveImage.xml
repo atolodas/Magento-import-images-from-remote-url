@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mage_InteractiveImage>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Mage_InteractiveImage>
+    </modules>
+</config>
